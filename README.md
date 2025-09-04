@@ -125,7 +125,7 @@ Instruments and sounds you can attach to MIDI notes (using the Web MIDI API):
 
 ### Instrument recordings
 
-High quality recordings of instruments, nicely organised into seprate files, in MP3, WAV or similar format. 
+High quality recordings of instruments, nicely organised into separate files, in MP3, WAV or similar format. 
 
 - ?
 
